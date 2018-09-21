@@ -22,7 +22,7 @@ Definitions for common terms:<br>
 ### Design
 
 The story follows a simple flow. The reader has minimal interaction with
- the data itself. I chose the limitation because the data is vast, 
+the data itself. I chose the limitation because the data is vast, 
 and I did not want any viewers to get lost in the sea of information.
 
 ### Feedback
