@@ -33,7 +33,8 @@ low traffic invisible. Encoding the data with colour was also not very
 great. So I decided to convey it through size and colour. This made the 
 busiest airports stand-out, while also not hiding the smaller ones.
 
-![](img/airport-size-small.PNG)
+![](img/airport-size-small.PNG) ![](Airport-unclear-colour.PNG)
+![](img/airport-final.png)
 
 Next, I was going to add a chart which displayed delay by airport split 
 by cause of the delay. I did not use it in the final version, as I felt 
