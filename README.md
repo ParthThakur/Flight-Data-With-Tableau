@@ -35,6 +35,11 @@ busiest airports stand-out, while also not hiding the smaller ones.
 
 <table>
 <tr>
+<th>Version 1</th>
+<th>Version 2</th>
+<th>Final</th>
+</tr>
+<tr>
 <td><img src="img/airport-size-small.PNG"/> </td>
 <td><img src="img/Airport-unclear-colour.PNG"/> </td>
 <td><img src="img/airport-final.PNG"/></td>
@@ -47,6 +52,7 @@ by cause of the delay. I did not use it in the final version, as I felt
 it was redundant information, and unnecessaarily complicated.
 
 <table>
+<caption>Complicated charts</caption>
 <tr>
 <td><img src="img/complicated delay group.PNG"/> </td>
 <td><img src="img/complicated delay group 23.PNG"/> </td>
