@@ -25,6 +25,17 @@ The story follows a simple flow. The reader has minimal interaction with
 the data itself. I chose the limitation because the data is vast, 
 and I did not want any viewers to get lost in the sea of information.
 
+That being said, the first tab contains a map of all airports visualised
+by number of flights the had in 2017. At the beggining, I chose to 
+encode with size of the datapoints. Though this made airports with very 
+low traffic invisible. Encoding the data with colour was also not very 
+great. So I decided to convey it through size and colour. This made the 
+busiest airports stand-out, while also not hiding the smaller ones.
+
+Next, I was going to add a chart which displayed delay by airport split 
+by cause of the delay. I did not use it in the final version, as I felt 
+it was redundant information, and unnecessaarily complicated.
+
 ### Feedback
 
 Hi! I really liked your story and the analysis (made me rethink some of 
@@ -41,12 +52,13 @@ understand that it's really difficult for various airlines to sustain
 using time frames. An airline could lose or gain business based on the 
 number of minutes it can salvage through it's service. Obviously also 
 based on exterior conditions such as the weather. Oh ans also the number 
-cancelled flights is shocking.
+cancelled flights is shocking. I understand everything in the graphic it
+is pretty clear, and well projected
 
-> I have added links to the data source in the the first tab of the 
-> visualisation.
 
-I understand everything in the graphic it is pretty clear, and well projected
+> I have added links to the data source in the the second tab of the 
+> story.
+
 
 ### Resources
 
