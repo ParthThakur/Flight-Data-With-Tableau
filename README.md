@@ -30,6 +30,9 @@ Hi! I really liked your story and the analysis (made me rethink some of
 mine). Looking at the charts - I would suggest to change color of the 
 bars on the Delay by Airport. Shouldn't all negative values be green?
 
+> I did consider that. But that took emphasis away from the minimum 
+> value.
+
 ### Resources
 
 [Tableau community forums](https://community.tableau.com/community/forums)<br>
