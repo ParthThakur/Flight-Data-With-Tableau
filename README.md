@@ -63,7 +63,7 @@ is pretty clear, and well projected
 ### Resources
 
 [Tableau community forums](https://community.tableau.com/community/forums)<br>
-[Bureau of Transportation](https://www.transtats.bts.gov/Tables.asp?DB_ID=120&DB_Name=Airline%20On-Time%20Performance%20Data&DB_Short_Name=On-Time)
+[Bureau of Transportation Statistics](https://www.transtats.bts.gov/Tables.asp?DB_ID=120&DB_Name=Airline%20On-Time%20Performance%20Data&DB_Short_Name=On-Time)
 
 #### Data Sources
 Raw Data: [Link](https://drive.google.com/drive/folders/1rv_D3251_flGKsr-7ETVTUnKv4Gcls-Q?usp=sharing)<br>
