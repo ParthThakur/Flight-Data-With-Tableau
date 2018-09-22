@@ -37,7 +37,7 @@ busiest airports stand-out, while also not hiding the smaller ones.
 <tr>
 <td><img src="img/airport-size-small.PNG"/> </td>
 <td><img src="img/Airport-unclear-colour.PNG"/> </td>
-<td><img src="img/airport-final.png"/></td>
+<td><img src="img/airport-final.PNG"/></td>
 </tr>
 <table>
 
