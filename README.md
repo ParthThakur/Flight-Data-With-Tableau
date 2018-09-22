@@ -27,7 +27,7 @@ and I did not want any viewers to get lost in the sea of information.
 
 ### Feedback
 
-- Hi! I really liked your story and the analysis (made me rethink some of 
+Hi! I really liked your story and the analysis (made me rethink some of 
 mine). Looking at the charts - I would suggest to change color of the 
 bars on the Delay by Airport. Shouldn't all negative values be green?
 
@@ -36,7 +36,7 @@ bars on the Delay by Airport. Shouldn't all negative values be green?
 > was added to the bar to make maximum and minimum value more apparent.
 
 
-- Have you mentioned the source of the data? As to relationship, I 
+Have you mentioned the source of the data? As to relationship, I 
 understand that it's really difficult for various airlines to sustain 
 using time frames. An airline could lose or gain business based on the 
 number of minutes it can salvage through it's service. Obviously also 
