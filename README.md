@@ -8,7 +8,7 @@ Bureau of Transportation Statistics has many datasets. The one used in
 this visualisation has information of over 5 million flights in US 
 from 2017.
 The Visualisation story follows Average Departure and Arrival delays and
- tries to understand the hidden causes for these delays.
+tries to understand the hidden causes for these delays.
 
 Definitions for common terms:<br>
  **Carrier Delay**: Cause of delay was within airline's control. <br>
@@ -32,6 +32,8 @@ encode with size of the datapoints. Though this made airports with very
 low traffic invisible. Encoding the data with colour was also not very 
 great. So I decided to convey it through size and colour. This made the 
 busiest airports stand-out, while also not hiding the smaller ones.
+
+![](img/airport-size-small.PNG)
 
 Next, I was going to add a chart which displayed delay by airport split 
 by cause of the delay. I did not use it in the final version, as I felt 
