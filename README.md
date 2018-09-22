@@ -26,12 +26,27 @@ the data itself. I chose the limitation because the data is vast,
 and I did not want any viewers to get lost in the sea of information.
 
 ### Feedback
-Hi! I really liked your story and the analysis (made me rethink some of 
+
+- Hi! I really liked your story and the analysis (made me rethink some of 
 mine). Looking at the charts - I would suggest to change color of the 
 bars on the Delay by Airport. Shouldn't all negative values be green?
 
 > I did consider that. But that took emphasis away from the minimum 
-> value.
+> value. Negative values in the chart stand-out by themselves. Colour 
+> was added to the bar to make maximum and minimum value more apparent.
+
+
+- Have you mentioned the source of the data? As to relationship, I 
+understand that it's really difficult for various airlines to sustain 
+using time frames. An airline could lose or gain business based on the 
+number of minutes it can salvage through it's service. Obviously also 
+based on exterior conditions such as the weather. Oh ans also the number 
+cancelled flights is shocking.
+
+> I have added links to the data source in the the first tab of the 
+> visualisation.
+
+I understand everything in the graphic it is pretty clear, and well projected
 
 ### Resources
 
