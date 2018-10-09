@@ -82,6 +82,17 @@ is pretty clear, and well projected
 > I have added links to the data source in the the second tab of the 
 > story.
 
+> There are hundreds of airports in this dataset, many of which are quite small 
+> and out-of-the-way. In your charts, on the airports with the highest and 
+> lowest average delays, you include at least one of these airports, Falls 
+> International Einarson Field. This is basically just an airstrip. Some of the 
+> other airport in that chart are larger but likewise regional and small. I 
+> would recommend filtering out airports that fall below a certain flight volume 
+> threshold.
+
+I hadn't considered that. Upon further investigation, I found that most of the
+airports in that chart were reqional fields with a single flight. To avoid them,
+I set a filter so only airports with at least 5000 flights show up.
 
 ### Resources
 
